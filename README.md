@@ -1,2 +1,3 @@
 # COT-ITD.github.io
-testing io access
+Image resource for City of Tacoma GIS Portal.
+
